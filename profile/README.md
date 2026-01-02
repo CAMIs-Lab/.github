@@ -1,7 +1,7 @@
 # Hi there 👋, we are the CAMIs Lab at UGA
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CAMIs-Lab/.github/main/assets/CAMIs 1.png?raw=true" width="200" alt="CAMIs Lab Logo"/>
+  <img src="https://raw.githubusercontent.com/CAMIs-Lab/.github/main/assets/CAMIs_sm.png?raw=true" width="200" alt="CAMIs Lab Logo"/>
   
   <h1>Cooperative Automated Mobility Innovations (CAMIs) Lab</h1>
   <h3>University of Georgia</h3>
